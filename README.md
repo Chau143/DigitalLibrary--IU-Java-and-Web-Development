@@ -48,7 +48,7 @@ The app demonstrates CRUD operations using **React (frontend)**, **Node.js + Exp
 ```bash
 git clone https://github.com/Chau143/DigitalLibrary--IU-Java-and-Web-Development.git
 cd DigitalLibrary--IU-Java-and-Web-Development
-**### **2️⃣ **Backend Setup**
+### 2️⃣ **Backend Setup**
 -Go to the backend folder: 
 cd backend
 -Install dependencies:
@@ -60,7 +60,7 @@ MONGO_URI="mongodb+srv://chau:chau@digital-library.1od0ek7.mongodb.net/?retryWri
 npm start
 - The backend should run now on:
 http://localhost:5556
-**###** 3️⃣ **Frontend Setup**
+### 3️⃣ **Frontend Setup**
 -Open a new terminal window and navigate to the frontend folder:
 cd ../ frontend
 - Install dependencies:
@@ -69,14 +69,15 @@ npm install
 npm run dev
 - Then open your browser and visit:
 http://localhost:5173 or http://localhost:5175 
-**### **4️⃣ **Verify the App**
+### 4️⃣ **Verify the App**
 ✅ Authentication via email and password,add, view, edit, and delete books
 ✅ Switch between Table and Card view
 ✅ Resize the browser window — confirm responsive design
 
-**📜** **License**
+## 📜**License**
 This project was created as part of the IU course "Java and Web Development".
 For educational and demonstration purposes only.
+
 
 
 
